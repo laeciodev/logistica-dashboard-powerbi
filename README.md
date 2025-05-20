@@ -15,7 +15,6 @@ Monitorar e analisar os principais indicadores logísticos de uma operação, fa
 - **Power BI**
 - **Power Query** (para tratamento e transformação dos dados)
 - **Excel** (como fonte de dados)
-- **DAX** (para criação de medidas e KPIs)
 
 ---
 
